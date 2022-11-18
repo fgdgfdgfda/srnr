@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srnr&label=Profile%20views&color=0e75b6&style=flat" alt="srnr" /> </p>
 
-- 🔭 Courses [-](-)
+- 🔭 Courses 
+> [Meta DB Engineer](https://in.coursera.org/professional-certificates/meta-database-engineer)
 
 - 🌱 Skills **-**
 
@@ -13,7 +14,7 @@
 
 - 👨‍💻 Projects [-](-)
 
-- 📝 Reddit Link [-](-)
+- 📝 Reddit Link [Detox](https://www.reddit.com/u/-detox)
 
 - 💬 Geeky **-**
 
